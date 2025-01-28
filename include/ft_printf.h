@@ -17,7 +17,7 @@
 # include <stdarg.h>
 
 void	ft_printf(const char *str, ...);
-int 	con_digit(int n, char *base);
+int		con_digit(int n, char *base);
 int		con_hex(unsigned int n, char *base);
 int		print_char(int c);
 int		print_str(char	*s);

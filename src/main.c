@@ -33,6 +33,6 @@ int	main(void)
 	//	Hex code
 	ft_printf("Hex codes: %x / %X\n", 480, 480);
 	//	Combination
-	ft_printf("Hello, my name is %s, I am %i years old and my\nfavourite hex value is: %x\n", "Steven", 88, 88);
+	ft_printf("Hello, my name is %s, I am %i years old and my\nfavorite hex value is: %x\n", "Steven", 88, 88);
 	return (0);
 }

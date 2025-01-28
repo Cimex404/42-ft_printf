@@ -15,7 +15,7 @@
 
 /*	These three functions take a number and a base for conversion, the main difference
 *	is just the limit (integer, long, unsigned) that they allow. All of them use the
-*	same groud logic to convert a number into an integer.
+*	same ground logic to convert a number into an integer.
 */
 
 int	con_digit(int n, char *base)
