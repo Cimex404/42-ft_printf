@@ -2,18 +2,17 @@
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; text-align: right;">
-    <img src="https://github.com/Cimex404/42-ft_printf/blob/master/printf_icon.png" align="right" alt="libft Logo" width="150">
+    <img src="https://github.com/Cimex404/42-ft_printf/blob/master/printf_icon.png" align="right" alt="libft Logo" width="140">
   </div>
-  <div style="flex: 2;">
+  <div style="flex: 2; text-align: left">
     <p>
     	ft_printf is a 42 project that teaches about variable-length function calls.
-		This project is a great asset for the later projects as it is much simpler and more versatile than the write function.
+	This project is a great asset for the later projects as it is much simpler and more versatile than the write function.
+	ft_printf is a simplified replica of the original printf function, it can handle the most essential data type conversions and prints them to the standart output.
     </p>
   </div>
 </div>
 
-#	What is ft_printf
-Very simple. It's a simplified replica of the original printf that can convert only the most essential data types and print them to the standart output. 
 
 #	Conversions
 ```bash
